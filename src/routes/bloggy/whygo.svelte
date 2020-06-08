@@ -10,6 +10,7 @@ pre{
     border: 1px solid #c4c5c0;
     border-radius: 4px;
     background:#f0f0f0;
+    color: #735e5ebf;
 }
 code{font-size: 100%;font-family: 'Work Sans', sans-serif;}
 
